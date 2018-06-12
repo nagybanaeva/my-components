@@ -1,0 +1,1 @@
+This a full-screen header.

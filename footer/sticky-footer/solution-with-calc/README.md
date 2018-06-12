@@ -1,0 +1,1 @@
+This is a solution of sticky footer with calculation.

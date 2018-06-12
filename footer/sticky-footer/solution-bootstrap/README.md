@@ -1,0 +1,1 @@
+This is the Bootstrap solution of sticky footer.
